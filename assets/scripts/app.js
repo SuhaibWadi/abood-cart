@@ -9,7 +9,7 @@ import {
 
 const mydatabase = {
   databaseURL:
-    "https://test-1-firebase-ac4b6-default-rtdb.europe-west1.firebasedatabase.app/", // .env
+    "https://test2-18a3f-default-rtdb.europe-west1.firebasedatabase.app/", // .env
 };
 
 const inputFieldEl = document.getElementById("input-field");
